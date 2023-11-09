@@ -1,5 +1,5 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/The-Code.jpg)
-<h1 align="center">Hi 👋, I'm Atefeh</h1>
+<h1 align="center">Hi 👋, I'm Atefeh Behroozi</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&pid=Api&P=0&h=180">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Typescript**
 
-- 🤝 I'm an alumna of **https://www.hackyourfuture.dk/**
+- 🤝 I'm an alumna of <a href="https://www.hackyourfuture.dk/" target="HackYourFuture bootcamp" >
 
 - 📫 How to reach me **ate.behroozi@gmail.com**
 
