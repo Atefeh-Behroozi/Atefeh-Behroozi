@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React & Typescript**
 
+- 🤝 I'm an alumna of **HackYourFuture bootcamp**
+
 - 📫 How to reach me **ate.behroozi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
