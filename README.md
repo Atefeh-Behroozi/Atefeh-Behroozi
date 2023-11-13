@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Typescript**
 
-- 🤝 I'm an alumna of <p align="left"><a href="https://www.hackyourfuture.dk/"> **HackYourFuture bootcamp**</p>
+- 🤝 I'm an alumna of <p align="left"><a href="https://www.hackyourfuture.dk/"> HackYourFuture bootcamp</p>
 
 - 📫 How to reach me **ate.behroozi@gmail.com**
 
