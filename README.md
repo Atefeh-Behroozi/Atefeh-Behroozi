@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atefeh-behroozi&label=Profile%20views&color=0e75b6&style=flat" alt="atefeh-behroozi" /> </p>
 
 
-- 🌱 I’m currently working as a **Frontend developer** in <a href="https://www.smallclaims.ai/">Smallclaims Company
+- 🌱 I’m currently working as a **Frontend developer** at <a href="https://www.smallclaims.ai/">Smallclaims
 - 🤝 I'm an alumna of<a href="https://www.hackyourfuture.dk/"> HackYourFuture bootcamp
 - 📫 How to reach me **ate.behroozi@gmail.com**
 
