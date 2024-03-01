@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a **Frontend Developer** at <a href="https://www.smallclaims.ai/">Smallclaims
 - 🤝 I'm an alumna of<a href="https://www.hackyourfuture.dk/"> HackYourFuture bootcamp
-- 📫 How to reach me **ate.behroozi@gmail.com**
+- 📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
