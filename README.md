@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atefeh Behroozi</h1>
+<h1 align="center">Hey 👋, I'm Atefeh Behroozi</h1>
 <h3 align="center">A passionate web developer from Denmark</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&pid=Api&P=0&h=180">
 
