@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Atefeh Behroozi</h1>
-<h3 align="center">A passionate web developer from Denmark</h3>
+<h3 align="center">A passionate web developer based in Copenhagen, Denmark</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atefeh-behroozi&label=Profile%20views&color=0e75b6&style=flat" alt="atefeh-behroozi" /> </p>
