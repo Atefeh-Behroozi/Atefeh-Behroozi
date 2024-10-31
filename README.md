@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m working as a **Full Stack Developer** at <a href="https://www.smallclaims.ai/">**Smallclaims** .
+- 🌱 I’m working as a **Software Developer** at <a href="https://www.smallclaims.ai/">**Smallclaims ApS** .
 - 🤝 I'm an alumna of<a href="https://www.hackyourfuture.dk/"> **HackYourFuture bootcamp** .
 - 📫 How to reach me **ate.behroozi@gmail.com** .
 
