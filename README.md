@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ati 👋</h1>
 <h2 align="center">A passionate Software developer from Denmark! </h2>
 <p align="center">I'm a Software Developer always looking for new challenges. 🐱‍💻 I'm always trying to learn something new and to make new projects. Currently, I'm mostly working with Typescript, Javascript, and React.</p>
-<img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&pid=Api&P=0&h=180">
+
 
 
 
